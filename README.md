@@ -1,4 +1,4 @@
-# IndustryWebDevelopmentProject
+# Industry Web Development Project with Nutriblocks Ltd
 
 <b><em>Note: Due to signing a Non-Disclosure Agreement, I have not included the source code of the web app I have created, though I have attached video link showing what it looks likes, you can also view the web app at nutriblocks.zapto.org</em></b>
 
