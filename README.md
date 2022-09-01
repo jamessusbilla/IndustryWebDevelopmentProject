@@ -1,6 +1,6 @@
 # Industry Web Development Project with Nutriblocks Ltd
 
-<b><em>Note: Due to signing a Non-Disclosure Agreement, I have not included the source code of the web app I have created, though I have attached video link showing what it looks likes, you can also view the web app at nutriblocks.zapto.org</em></b>
+<b><em>Note: Due to signing a Non-Disclosure Agreement, I have not included the source code of the web app I have created, though I have attached video link showing what it looks likes, you can also view the web app at <a href="nutriblocks.zapto.org">Nutriblocks Web App</a></em></b>
 
 The NutriBlocks Web Development Repository is a collection of iteration going from design to deployment using AWS Technologies. It mainly uses Python's Django framework as the backend of the web app, JavaScript mainly Jquery, AlpineJS, HTML and CSS to cover the frontend.
 
