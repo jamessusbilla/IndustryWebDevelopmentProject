@@ -14,4 +14,4 @@ The NutriBlocks Web app is a platform with real-time feature to allow viewer to 
 
 <br/>
 
-The showcase of the web app can be viewed via the youtube link - https://www.youtube.com/watch?v=bWa5LtKm5K8 or through the website <a href="https://nutriblocks.zapto.org/">NutriBlocks Web App</a>
+The showcase of the web app can be viewed via the youtube link - <a href="https://www.youtube.com/watch?v=bWa5LtKm5K8">Web App Showcase</a> or through the website <a href="https://nutriblocks.zapto.org/">NutriBlocks Web App</a>
